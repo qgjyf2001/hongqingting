@@ -1,0 +1,5 @@
+run-as com.example.hongqingting
+cd databases
+cat stu.db > /mnt/sdcard/stu.db
+cat stu.db-shm > /mnt/sdcard/stu.db-shm
+cat stu.db-wal > /mnt/sdcard/stu.db-wal
